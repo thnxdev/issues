@@ -1,1 +1,1 @@
-# issues tracking + roadmap management
+# THANKS.DEV issue tracking
